@@ -20,7 +20,6 @@ const nextConfig: NextConfig = {
     resolveAlias: {
       "next-intl/config": "./src/i18n/request.ts",
     },
-    root: __dirname,
   },
 };
 
